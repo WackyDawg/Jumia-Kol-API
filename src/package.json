@@ -6,6 +6,7 @@
     "start": "nodemon scrapev2.js"
   },
   "dependencies": {
+    "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "geoip-lite": "^1.4.9",
     "nodemon": "^3.0.2",
