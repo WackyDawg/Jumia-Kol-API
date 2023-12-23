@@ -1,0 +1,2375 @@
+var dataLayer = [
+    {
+        "countryCode": "NG",
+        "language": "en",
+        "platform": "desktop",
+        "url": "/health-beauty/",
+        "pageType": "catalog",
+        "pageSubtype": "category",
+        "pageKey": "catalog_category",
+        "catFilterIds": "22623",
+        "catFilterNames": [
+            "Health & Beauty"
+        ],
+        "sponsored": {
+            "apiKey": "6a0e466294c8bb7a7296f24091283d9ad07566eff92b6dda9bbdb8136517b753CPM",
+            "userId": "335198814715828515165777abb35c0b",
+            "pageId": "Health & Beauty",
+            "pageType": "category"
+        },
+        "pageTitle": "Health and Beauty - Shop Best Beauty Products - Jumia Nigeria",
+        "abTests": "Home:A#MLP:A#CLP:B#Cart:S#SponProdPdp:A",
+        "joinedPageType": "catalog_category",
+        "skus": [
+            "NI930ST2G226CNAFAMZ",
+            "2B280ST3Q38LPNAFAMZ",
+            "DE111ST0J9N8PNAFAMZ",
+            "LU693ST4SMJTKNAFAMZ",
+            "CL893ST07G9XTNAFAMZ",
+            "NI930ST4EGU5HNAFAMZ",
+            "DA066ST3ONXRKNAFAMZ",
+            "SA837ST4TFEXXNAFAMZ",
+            "MA364ST3TOXPCNAFAMZ",
+            "KI762HB19X66TNAFAMZ",
+            "DI119ST0QV6SNNAFAMZ",
+            "CL670ST4C5UEDNAFAMZ",
+            "NI930ST22E5UCNAFAMZ",
+            "DI119ST39PVRTNAFAMZ",
+            "NI930ST23IVW4NAFAMZ",
+            "LO359ST45O8GMNAFAMZ",
+            "NI930ST265LM4NAFAMZ",
+            "RO613ST4GXB8LNAFAMZ",
+            "PE787ST4MVNADNAFAMZ",
+            "CE183ST3R2N01NAFAMZ",
+            "GE779ST4A0Z7SNAFAMZ",
+            "DI119ST4287ECNAFAMZ",
+            "NO345ST0V0XU3NAFAMZ",
+            "BR049ST2HJB5PNAFAMZ",
+            "AI075ST3E6KI5NAFAMZ",
+            "VA421ST4QL7APNAFAMZ",
+            "GE779ST4GVO2WNAFAMZ",
+            "CE183ST3JPCWGNAFAMZ",
+            "GE779FC0VMLSONAFAMZ",
+            "CE183ST22ULI8NAFAMZ",
+            "NO345ST00H9VXNAFAMZ",
+            "GE779ST02DS1DNAFAMZ",
+            "GE779SE4ENXKRNAFAMZ",
+            "GE779AT34VL77NAFAMZ",
+            "CE183ST3B7TBGNAFAMZ",
+            "OX419ST4V7GSFNAFAMZ",
+            "GE779ST4KV3BHNAFAMZ",
+            "TH813ST3X2O8FNAFAMZ",
+            "GE779ST3MQXO4NAFAMZ",
+            "GE779AT3OGKJ8NAFAMZ"
+        ],
+        "viewType": "grid"
+    }
+]; (function (w, d, s, l, i, f) { function go() { w[l
+        ] = w[l
+        ] || []; w[l
+        ].push({
+            "gtm.start": new Date().getTime(), event: "gtm.js"
+        }); f = d.getElementsByTagName(s)[
+            0
+        ], j = d.createElement(s), dl = l != "dataLayer" ? "&l=" + l : ""; j.async = true; j.src = "//www.googletagmanager.com/gtm.js?id=" + i + dl; j.addEventListener('load', function () { dataLayer.push({ event: 'pageView'
+            }); (function () { setTimeout((function () { window.dataLayer.push({ event: "pageViewLvl2"
+                    }), setTimeout((function () { window.dataLayer.push({ event: "pageViewLvl3"
+                        })
+                    }),
+                    500)
+                }),
+                500)
+            })()
+        }); f.parentNode.insertBefore(j, f);
+    } w.addEventListener("load", go, false);
+})(window, document, 'script', 'dataLayer', 'GTM-KS6DC65');
+
+window.__STORE__ = {
+    "view": "Catalog",
+    "activeLanguage": "en",
+    "countryCode": "NG",
+    "languages": {
+        "en": {
+            "text": "English",
+            "default": true
+        }
+    },
+    "svgFallback": false,
+    "tracking": {
+        "gtm": {
+            "key": "GTM-KS6DC65",
+            "url": "/health-beauty/",
+            "pageType": "catalog",
+            "pageSubtype": "category",
+            "pageKey": "catalog_category",
+            "catFilterIds": "22623",
+            "catFilterNames": [
+                "Health & Beauty"
+            ],
+            "sponsored": {
+                "apiKey": "6a0e466294c8bb7a7296f24091283d9ad07566eff92b6dda9bbdb8136517b753CPM",
+                "userId": "335198814715828515165777abb35c0b",
+                "pageId": "Health & Beauty",
+                "pageType": "category"
+            }
+        }
+    },
+    "csrfToken": "86de379ef76f4d00692e1920535fc867",
+    "user": {
+        "id": ""
+    },
+    "sprites": {
+        "icons": "https://www.jumia.com.ng/assets_he/images/i-icons.a66628fd.svg",
+        "global": "https://www.jumia.com.ng/assets_he/images/i-global.95441341.svg",
+        "shop": "https://www.jumia.com.ng/assets_he/images/i-jumia.svg"
+    },
+    "liveChat": {
+        "loadingText": "Live Chat is loading...",
+        "botImg": "https://www.jumia.com.ng/assets_he/images/bot.5beef7d8.svg"
+    },
+    "htmlErrors": {
+        "valueMissing": "Required field",
+        "typeMismatch": "Invalid Information",
+        "patternMismatch": "Invalid Information",
+        "rangeOverflow": "form_html-errors_range_overflow",
+        "rangeUnderflow": "form_html-errors_range_underflow",
+        "tooLong": "form_html-errors_too_long",
+        "tooShort": "form_html-errors_too_short"
+    },
+    "addToCart": {
+        "common": {
+            "buyNowQtySelection": {
+                "showQtySelector": true,
+                "cartQtyIncreaseCTA": "increase cart quantity",
+                "cartQtyDecreaseCTA": "decrease cart quantity"
+            }
+        },
+        "default": {
+            "buyNowCTA": "Add To Cart",
+            "buyNowQtySelection": {
+                "showQtySelector": true,
+                "cartQtyIncreaseCTA": "increase cart quantity",
+                "cartQtyDecreaseCTA": "decrease cart quantity"
+            },
+            "isXhr": true
+        }
+    },
+    "popups": {
+        "addToCart": {
+            "data": {
+                "buyNowCTA": "Add To Cart",
+                "buyNowQtySelection": {
+                    "showQtySelector": true,
+                    "cartQtyIncreaseCTA": "increase cart quantity",
+                    "cartQtyDecreaseCTA": "decrease cart quantity"
+                },
+                "unavailableText": "Currently unavailable",
+                "viewUrl": "/cart/",
+                "continueCTA": "Continue Shopping",
+                "viewCTA": "View Cart and Checkout",
+                "popupTitle": "Please select a variation",
+                "closeCTA": "close popup"
+            },
+            "template": "AddToCart"
+        },
+        "filters": {
+            "dynData": {
+                "9": {
+                    "title": "Jumia Express",
+                    "markup": "<div class=\"markup\">JUMIA Express for all the products indicated as Free Delivery in Lagos, Abuja, Ibadan, Warri, Benin, Abeokuta, Akure, and Portharcourt can benefit from:\n<br/>\n1. Free door delivery on orders above ₦19,999 for Lagos &amp; Abuja and ₦14,999 for Ibadan, Warri, Benin, Abeokuta, Akure, and Port Harcourt.\n<br/>\n2. Free delivery for Pickup station orders above ₦3,999 for Lagos &amp; Abuja.\n<br/>\nNote: Free delivery offer is not valid for bulky items.\n\nJUMIA Express offers you next-day delivery in Lagos if you order before 2 pm. \n<br/>\n<br/>\nClick <a href=\"https://www.jumia.com.ng/jumia-express/\"> here</a> to get more details.</div > "
+                }
+            }
+        }
+    },
+    "products": [
+        {
+            "sku": "NI930ST2G226CNAFAMZ",
+            "name": "Watimagbo Pack - Perfect & Radiant Body Lotion - 400ml(Pack of 3)",
+            "displayName": "NIVEA Watimagbo Pack - Perfect & Radiant Body Lotion - 400ml(Pack of 3)",
+            "brand": "NIVEA",
+            "isShopExpress": true,
+            "categories": "Health & Beauty / Beauty & Personal Care / Personal Care / Skin Care / Body / Moisturizers",
+            "prices": {
+                "rawPrice": "7485.00",
+                "price": "₦ 7, 485",
+                "priceEuro": "8.66",
+                "taxEuro": "0.60",
+                "oldPrice": "₦ 9, 600",
+                "oldPriceEuro": "11.11",
+                "discount": "22 % "
+            },
+            "tags": "BLF | BLF_08 | BLF_09 | BLF_15 | Boost | CP_MT138 | CP_MT68 | DOW_99 | FDYJE | JF23_10 | JMALL | TBOOST | TDBOOSTING | XMAS | xmas_01 | xmas_04 | xmas_07",
+            "rating": {
+                "average": 4.4,
+                "totalRatings": 518
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/9023401/1.jpg?5824",
+            "url": "/watimagbo-pack-natural-fairness-clarifiant-lotion-400mlpack-of-3-nivea-mpg1657720.html",
+            "badges": {
+                "main": {
+                    "name": "Official Store",
+                    "identifier": "JMALL",
+                    "url": "/all-products/?tag=JMALL"
+                },
+                "campaign": {
+                    "name": "XMAS",
+                    "identifier": "XMAS",
+                    "image": "https://ng.jumia.is/badges/xmas/1/138x18.png?0528",
+                    "url": "/all-products/?tag=XMAS"
+                }
+            },
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "NI930ST2G226CNAFAMZ-142471197",
+                    "loginUrl": "/customer/account/login/?tkWl=NI930ST2G226CNAFAMZ-142471197&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "7485.00",
+                        "price": "₦ 7,485",
+                        "priceEuro": "8.66",
+                        "taxEuro": "0.60",
+                        "oldPrice": "₦ 9,600",
+                        "oldPriceEuro": "11.11",
+                        "discount": "22%"
+                    }
+                }
+            ],
+            "selectedVariation": "NI930ST2G226CNAFAMZ-142471197"
+        },
+        {
+            "sku": "2B280ST3Q38LPNAFAMZ",
+            "name": "Darkening & Anti-dandruff Unisex Hair Cream(80g)",
+            "displayName": "2Black Darkening & Anti-dandruff Unisex Hair Cream(80g)",
+            "brand": "2Black",
+            "sellerId": 107787,
+            "isShopExpress": true,
+            "categories": "Health & Beauty/Beauty & Personal Care/Hair Care/Hair & Scalp Care/Hair & Scalp Treatments",
+            "prices": {
+                "rawPrice": "990.00",
+                "price": "₦ 990",
+                "priceEuro": "1.15",
+                "taxEuro": "0.08",
+                "oldPrice": "₦ 10,000",
+                "oldPriceEuro": "11.58",
+                "discount": "90%"
+            },
+            "tags": "BLF|BLF_08|BLF_09|Boost|CP_MT147|CP_MT148|CP_MT149|CP_MT150|DOW_287|DOW_99|FDYJE|JF23_10|TBOOST|TDBOOSTING",
+            "rating": {
+                "average": 3.9,
+                "totalRatings": 349
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/25/2196612/1.jpg?6851",
+            "url": "/2black-darkening-anti-dandruff-unisex-hair-cream80g-216691252.html",
+            "badges": {
+                "campaign": {
+                    "name": "FDYJE",
+                    "identifier": "FDYJE",
+                    "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+                    "url": "/all-products/?tag=FDYJE"
+                }
+            },
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "2B280ST3Q38LPNAFAMZ-334235901",
+                    "loginUrl": "/customer/account/login/?tkWl=2B280ST3Q38LPNAFAMZ-334235901&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "990.00",
+                        "price": "₦ 990",
+                        "priceEuro": "1.15",
+                        "taxEuro": "0.08",
+                        "oldPrice": "₦ 10,000",
+                        "oldPriceEuro": "11.58",
+                        "discount": "90%"
+                    }
+                }
+            ],
+            "selectedVariation": "2B280ST3Q38LPNAFAMZ-334235901"
+        },
+        {
+            "sku": "DE111ST0J9N8PNAFAMZ",
+            "name": "Soap Pink Glow - 70g (Pack Of 6)",
+            "displayName": "Dettol Soap Pink Glow - 70g (Pack Of 6)",
+            "brand": "Dettol",
+            "isShopExpress": true,
+            "categories": "Health & Beauty/Beauty & Personal Care/Personal Care/Bath & Bathing Accessories/Bath",
+            "prices": {
+                "rawPrice": "1875.00",
+                "price": "₦ 1,875",
+                "priceEuro": "2.17",
+                "taxEuro": "0.15"
+            },
+            "tags": "BLF|BLF_08|BLF_09|Boost|CARR|CP_MT138|DOW_99|FDYJE|JF23_10|JMALL|NORET|TBOOST|TDBOOSTING|UND_33",
+            "rating": {
+                "average": 4.3,
+                "totalRatings": 238
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/32/362729/1.jpg?4811",
+            "url": "/dettol-soap-pink-glow-70g-pack-of-6-92726323.html",
+            "badges": {
+                "main": {
+                    "name": "Official Store",
+                    "identifier": "JMALL",
+                    "url": "/all-products/?tag=JMALL"
+                },
+                "campaign": {
+                    "name": "FDYJE",
+                    "identifier": "FDYJE",
+                    "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+                    "url": "/all-products/?tag=FDYJE"
+                }
+            },
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "DE111ST0J9N8PNAFAMZ-126177088",
+                    "loginUrl": "/customer/account/login/?tkWl=DE111ST0J9N8PNAFAMZ-126177088&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "1875.00",
+                        "price": "₦ 1,875",
+                        "priceEuro": "2.17",
+                        "taxEuro": "0.15"
+                    }
+                }
+            ],
+            "selectedVariation": "DE111ST0J9N8PNAFAMZ-126177088"
+        },
+        {
+            "sku": "LU693ST4SMJTKNAFAMZ",
+            "name": "Hair Repair Oil Serum + NO°5  Noir + Curl Keeper Spray",
+            "displayName": "L'Uodais Hair Repair Oil Serum + NO°5  Noir + Curl Keeper Spray",
+            "brand": "L'Uodais",
+            "sellerId": 107787,
+            "isShopExpress": true,
+            "categories": "Health & Beauty/Beauty & Personal Care/Hair Care/Styling Products/Oils & Serums/Serums",
+            "prices": {
+                "rawPrice": "4699.00",
+                "price": "₦ 4,699",
+                "priceEuro": "5.44",
+                "taxEuro": "0.38",
+                "oldPrice": "₦ 10,000",
+                "oldPriceEuro": "11.58",
+                "discount": "53%"
+            },
+            "tags": "BLF|BLF_08|BLF_09|Boost|CP_MT147|CP_MT148|CP_MT149|CP_MT150|DOW_287|DOW_99|FDYJE|JF23_10|TBOOST|TDBOOSTING",
+            "rating": {
+                "average": 4.3,
+                "totalRatings": 748
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/89/9460722/1.jpg?6214",
+            "url": "/luodais-hair-repair-oil-serum-no5-noir-curl-keeper-spray-227064998.html",
+            "badges": {
+                "campaign": {
+                    "name": "FDYJE",
+                    "identifier": "FDYJE",
+                    "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+                    "url": "/all-products/?tag=FDYJE"
+                }
+            },
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "LU693ST4SMJTKNAFAMZ-347777463",
+                    "loginUrl": "/customer/account/login/?tkWl=LU693ST4SMJTKNAFAMZ-347777463&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "4699.00",
+                        "price": "₦ 4,699",
+                        "priceEuro": "5.44",
+                        "taxEuro": "0.38",
+                        "oldPrice": "₦ 10,000",
+                        "oldPriceEuro": "11.58",
+                        "discount": "53%"
+                    }
+                }
+            ],
+            "selectedVariation": "LU693ST4SMJTKNAFAMZ-347777463"
+        },
+        {
+            "sku": "CL893ST07G9XTNAFAMZ",
+            "name": "Red Hot Triple Fresh For Lasting Freshness 130g Triple Pack",
+            "displayName": "Closeup Red Hot Triple Fresh For Lasting Freshness 130g Triple Pack",
+            "brand": "Closeup",
+            "isShopExpress": true,
+            "categories": "Health & Beauty/Beauty & Personal Care/Oral Care/Toothpaste",
+            "prices": {
+                "rawPrice": "2170.00",
+                "price": "₦ 2,170",
+                "priceEuro": "2.51",
+                "taxEuro": "0.18"
+            },
+            "tags": "BLF|BLF_15|Boost|CARR|CP_MT68|FDYJE|JF23_10|JMALL|TBOOST|TDBOOSTING",
+            "rating": {
+                "average": 4.5,
+                "totalRatings": 46
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/12/516689/1.jpg?1271",
+            "url": "/red-hot-triple-fresh-for-lasting-freshness-140g-triple-pack-closeup-mpg1643038.html",
+            "badges": {
+                "main": {
+                    "name": "Official Store",
+                    "identifier": "JMALL",
+                    "url": "/all-products/?tag=JMALL"
+                },
+                "campaign": {
+                    "name": "FDYJE",
+                    "identifier": "FDYJE",
+                    "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+                    "url": "/all-products/?tag=FDYJE"
+                }
+            },
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "CL893ST07G9XTNAFAMZ-135325465",
+                    "loginUrl": "/customer/account/login/?tkWl=CL893ST07G9XTNAFAMZ-135325465&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "2170.00",
+                        "price": "₦ 2,170",
+                        "priceEuro": "2.51",
+                        "taxEuro": "0.18"
+                    }
+                }
+            ],
+            "selectedVariation": "CL893ST07G9XTNAFAMZ-135325465"
+        },
+        {
+            "sku": "NI930ST4EGU5HNAFAMZ",
+            "name": "Perfect & Radiant Luminous630 Anti Dark Marks Day Cream SPF50 - 40ml (Pack of 2)",
+            "displayName": "NIVEA Perfect & Radiant Luminous630 Anti Dark Marks Day Cream SPF50 - 40ml (Pack of 2)",
+            "brand": "NIVEA",
+            "isShopExpress": true,
+            "categories": "Health & Beauty/Beauty & Personal Care/Personal Care/Skin Care/Body/Moisturizers",
+            "prices": {
+                "rawPrice": "15345.00",
+                "price": "₦ 15,345",
+                "priceEuro": "17.76",
+                "taxEuro": "1.24",
+                "oldPrice": "₦ 19,200",
+                "oldPriceEuro": "22.22",
+                "discount": "20%"
+            },
+            "tags": "BLF|BLF_08|BLF_09|BLF_15|Boost|CARR|CP_MT147|CP_MT148|CP_MT149|CP_MT150|CP_MT68|DOW_287|DOW_99|FDYJE|JF23_10|JMALL|TBOOST|TDBOOSTING|XMAS|xmas_01|xmas_04|xmas_07",
+            "rating": {
+                "average": 4,
+                "totalRatings": 26
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/66/1649012/1.jpg?7859",
+            "url": "/nivea-perfect-radiant-luminous630-anti-dark-marks-day-cream-spf50-40ml-pack-of-2-210946166.html",
+            "badges": {
+                "main": {
+                    "name": "Official Store",
+                    "identifier": "JMALL",
+                    "url": "/all-products/?tag=JMALL"
+                },
+                "campaign": {
+                    "name": "XMAS",
+                    "identifier": "XMAS",
+                    "image": "https://ng.jumia.is/badges/xmas/1/138x18.png?0528",
+                    "url": "/all-products/?tag=XMAS"
+                }
+            },
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "NI930ST4EGU5HNAFAMZ-325094960",
+                    "loginUrl": "/customer/account/login/?tkWl=NI930ST4EGU5HNAFAMZ-325094960&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "15345.00",
+                        "price": "₦ 15,345",
+                        "priceEuro": "17.76",
+                        "taxEuro": "1.24",
+                        "oldPrice": "₦ 19,200",
+                        "oldPriceEuro": "22.22",
+                        "discount": "20%"
+                    }
+                }
+            ],
+            "selectedVariation": "NI930ST4EGU5HNAFAMZ-325094960"
+        },
+        {
+            "sku": "DA066ST3ONXRKNAFAMZ",
+            "name": "Superstar   color - bg900",
+            "displayName": "Darling Superstar   color - bg900",
+            "brand": "Darling",
+            "isShopExpress": true,
+            "categories": "Health & Beauty/Beauty & Personal Care/Hair Care/Extensions, Wigs & Accessories/Hair Extensions",
+            "prices": {
+                "rawPrice": "2030.00",
+                "price": "₦ 2,030",
+                "priceEuro": "2.35",
+                "taxEuro": "0.16"
+            },
+            "tags": "BLF|Boost|CARR|CP_UN269|CP_UN296|FDYJE|JMALL|TBOOST|TDBOOSTING",
+            "rating": {
+                "average": 4.3,
+                "totalRatings": 6
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/22/8261602/1.jpg?1035",
+            "url": "/darling-superstar-color-bg900-206162822.html",
+            "badges": {
+                "main": {
+                    "name": "Official Store",
+                    "identifier": "JMALL",
+                    "url": "/all-products/?tag=JMALL"
+                },
+                "campaign": {
+                    "name": "FDYJE",
+                    "identifier": "FDYJE",
+                    "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+                    "url": "/all-products/?tag=FDYJE"
+                }
+            },
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "DA066ST3ONXRKNAFAMZ-319234308",
+                    "loginUrl": "/customer/account/login/?tkWl=DA066ST3ONXRKNAFAMZ-319234308&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "2030.00",
+                        "price": "₦ 2,030",
+                        "priceEuro": "2.35",
+                        "taxEuro": "0.16"
+                    }
+                }
+            ],
+            "selectedVariation": "DA066ST3ONXRKNAFAMZ-319234308"
+        },
+        {
+            "sku": "SA837ST4TFEXXNAFAMZ",
+            "name": "Buttercup Setting Powder/Finishing Powder For Every Skin",
+            "displayName": "Sacha Buttercup Setting Powder/Finishing Powder For Every Skin",
+            "brand": "Sacha",
+            "sellerId": 107787,
+            "isShopExpress": true,
+            "categories": "Health & Beauty/Beauty & Personal Care/Makeup/Face/Powder",
+            "prices": {
+                "rawPrice": "1799.00",
+                "price": "₦ 1,799",
+                "priceEuro": "2.08",
+                "taxEuro": "0.15",
+                "oldPrice": "₦ 5,000",
+                "oldPriceEuro": "5.79",
+                "discount": "64%"
+            },
+            "tags": "BLF|CP_MT137|CP_MT149|CP_MT150|CP_UN269|CP_UN296|DOW_101|DOW_287|FDYJE|TBOOST|TDBOOSTING|UND_33",
+            "rating": {
+                "average": 3.9,
+                "totalRatings": 101
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/91/2927732/1.jpg?6387",
+            "url": "/sacha-buttercup-setting-powderfinishing-powder-for-every-skin-237729219.html",
+            "badges": {
+                "campaign": {
+                    "name": "FDYJE",
+                    "identifier": "FDYJE",
+                    "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+                    "url": "/all-products/?tag=FDYJE"
+                }
+            },
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "SA837ST4TFEXXNAFAMZ-363597841",
+                    "loginUrl": "/customer/account/login/?tkWl=SA837ST4TFEXXNAFAMZ-363597841&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "1799.00",
+                        "price": "₦ 1,799",
+                        "priceEuro": "2.08",
+                        "taxEuro": "0.15",
+                        "oldPrice": "₦ 5,000",
+                        "oldPriceEuro": "5.79",
+                        "discount": "64%"
+                    }
+                }
+            ],
+            "selectedVariation": "SA837ST4TFEXXNAFAMZ-363597841"
+        },
+        {
+            "sku": "MA364ST3TOXPCNAFAMZ",
+            "name": "Superstay Matte Ink Liquid Lipstick - 20 Pioneer",
+            "displayName": "Maybelline Superstay Matte Ink Liquid Lipstick - 20 Pioneer",
+            "brand": "Maybelline",
+            "isShopExpress": true,
+            "categories": "Health & Beauty/Beauty & Personal Care/Makeup/Lips/Lipstick",
+            "prices": {
+                "rawPrice": "10300.00",
+                "price": "₦ 10,300",
+                "priceEuro": "11.92",
+                "taxEuro": "0.83"
+            },
+            "tags": "BLF_20|BLF_21|FDYJE|JMALL|TBOOST|TDBOOSTING|XMAS|xmas_01|xmas_04|xmas_07",
+            "rating": {
+                "average": 0,
+                "totalRatings": 0
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/31/2708162/1.jpg?4015",
+            "url": "/maybelline-superstay-matte-ink-liquid-lipstick-20-pioneer-261807213.html",
+            "badges": {
+                "main": {
+                    "name": "Official Store",
+                    "identifier": "JMALL",
+                    "url": "/all-products/?tag=JMALL"
+                },
+                "campaign": {
+                    "name": "XMAS",
+                    "identifier": "XMAS",
+                    "image": "https://ng.jumia.is/badges/xmas/1/138x18.png?0528",
+                    "url": "/all-products/?tag=XMAS"
+                }
+            },
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "MA364ST3TOXPCNAFAMZ-400702985",
+                    "loginUrl": "/customer/account/login/?tkWl=MA364ST3TOXPCNAFAMZ-400702985&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "10300.00",
+                        "price": "₦ 10,300",
+                        "priceEuro": "11.92",
+                        "taxEuro": "0.83"
+                    }
+                }
+            ],
+            "selectedVariation": "MA364ST3TOXPCNAFAMZ-400702985"
+        },
+        {
+            "sku": "KI762HB19X66TNAFAMZ",
+            "name": "Professional Rechargeable Hair Clipper - NG-777",
+            "displayName": "Kiki New Gain Professional Rechargeable Hair Clipper - NG-777",
+            "brand": "Kiki New Gain",
+            "sellerId": 46806,
+            "categories": "Health & Beauty/Beauty & Personal Care/Hair Care/Hair Cutting Tools/Hair Clippers & Accessories/Hair Clippers",
+            "prices": {
+                "rawPrice": "13900.00",
+                "price": "₦ 13,900",
+                "priceEuro": "16.09",
+                "taxEuro": "1.12"
+            },
+            "tags": "BLF|BLF_08|BLF_09|CP_MT147|CP_MT148|CP_MT149|CP_MT150|CP_UN269|CP_UN296|DOW_287|DOW_99|FDYJE|JF23_10|JMALL|TBOOST|TDBOOSTING|XMAS|xmas_04|xmas_07",
+            "rating": {
+                "average": 4,
+                "totalRatings": 122
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/77/130389/1.jpg?0674",
+            "url": "/kiki-new-gain-professional-rechargeable-hair-clipper-ng-777-98303177.html",
+            "badges": {
+                "main": {
+                    "name": "Official Store",
+                    "identifier": "JMALL",
+                    "url": "/all-products/?tag=JMALL"
+                },
+                "campaign": {
+                    "name": "XMAS",
+                    "identifier": "XMAS",
+                    "image": "https://ng.jumia.is/badges/xmas/1/138x18.png?0528",
+                    "url": "/all-products/?tag=XMAS"
+                }
+            },
+            "isBuyable": true,
+            "simples": [
+                {
+                    "sku": "KI762HB19X66TNAFAMZ-134681662",
+                    "loginUrl": "/customer/account/login/?tkWl=KI762HB19X66TNAFAMZ-134681662&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "13900.00",
+                        "price": "₦ 13,900",
+                        "priceEuro": "16.09",
+                        "taxEuro": "1.12"
+                    }
+                }
+            ],
+            "selectedVariation": "KI762HB19X66TNAFAMZ-134681662"
+        },
+        {
+            "sku": "DI119ST0QV6SNNAFAMZ",
+            "name": "Vitamin C  Face Serum/anti-aging,sunburn & Dark Spots Removal",
+            "displayName": "Disaar Vitamin C  Face Serum/anti-aging,sunburn & Dark Spots Removal",
+            "brand": "Disaar",
+            "sellerId": 141123,
+            "categories": "Health & Beauty/Beauty & Personal Care/Personal Care/Skin Care/Face/Creams & Moisturizers",
+            "prices": {
+                "rawPrice": "2500.00",
+                "price": "₦ 2,500",
+                "priceEuro": "2.89",
+                "taxEuro": "0.20"
+            },
+            "tags": "Boost|CP_MT137|CP_UN269|CP_UN296|DOW_101|FDYJE|TDBOOSTING",
+            "rating": {
+                "average": 3.7,
+                "totalRatings": 129
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/45/125159/1.jpg?4439",
+            "url": "/disaar-vitamin-c-face-serumanti-agingsunburn-dark-spots-removal-95152154.html",
+            "badges": {
+                "campaign": {
+                    "name": "FDYJE",
+                    "identifier": "FDYJE",
+                    "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+                    "url": "/all-products/?tag=FDYJE"
+                }
+            },
+            "isBuyable": true,
+            "simples": [
+                {
+                    "sku": "DI119ST0QV6SNNAFAMZ-130469300",
+                    "loginUrl": "/customer/account/login/?tkWl=DI119ST0QV6SNNAFAMZ-130469300&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "2500.00",
+                        "price": "₦ 2,500",
+                        "priceEuro": "2.89",
+                        "taxEuro": "0.20"
+                    }
+                }
+            ],
+            "selectedVariation": "DI119ST0QV6SNNAFAMZ-130469300"
+        },
+        {
+            "sku": "CL670ST4C5UEDNAFAMZ",
+            "name": "Matte Lipstick 4 Set - Nude/Red/Isabella/Nicki Minaj",
+            "displayName": "Classic Make Up Matte Lipstick 4 Set - Nude/Red/Isabella/Nicki Minaj",
+            "brand": "Classic Make Up",
+            "sellerId": 107787,
+            "isShopExpress": true,
+            "categories": "Health & Beauty/Beauty & Personal Care/Makeup/Lips/Lipstick",
+            "prices": {
+                "rawPrice": "3200.00",
+                "price": "₦ 3,200",
+                "priceEuro": "3.70",
+                "taxEuro": "0.26",
+                "oldPrice": "₦ 10,000",
+                "oldPriceEuro": "11.58",
+                "discount": "68%"
+            },
+            "tags": "CP_MT137|CP_MT149|CP_MT150|CP_UN269|CP_UN296|DOW_101|DOW_287|FDYJE|TDBOOSTING",
+            "rating": {
+                "average": 4.4,
+                "totalRatings": 18
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/62/2927732/1.jpg?9343",
+            "url": "/classic-make-up-matte-lipstick-4-set-nuderedisabellanicki-minaj-237729226.html",
+            "badges": {
+                "campaign": {
+                    "name": "FDYJE",
+                    "identifier": "FDYJE",
+                    "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+                    "url": "/all-products/?tag=FDYJE"
+                }
+            },
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "CL670ST4C5UEDNAFAMZ-363597848",
+                    "loginUrl": "/customer/account/login/?tkWl=CL670ST4C5UEDNAFAMZ-363597848&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "3200.00",
+                        "price": "₦ 3,200",
+                        "priceEuro": "3.70",
+                        "taxEuro": "0.26",
+                        "oldPrice": "₦ 10,000",
+                        "oldPriceEuro": "11.58",
+                        "discount": "68%"
+                    }
+                }
+            ],
+            "selectedVariation": "CL670ST4C5UEDNAFAMZ-363597848"
+        },
+        {
+            "sku": "NI930ST22E5UCNAFAMZ",
+            "name": "Dry Impact Roll-on For Men, 72h- 50ml (Pack Of 3)",
+            "displayName": "NIVEA Dry Impact Roll-on For Men, 72h- 50ml (Pack Of 3)",
+            "brand": "NIVEA",
+            "isShopExpress": true,
+            "categories": "Health & Beauty/Beauty & Personal Care/Personal Care/Deodorants & Antiperspirants",
+            "prices": {
+                "rawPrice": "3275.00",
+                "price": "₦ 3,275",
+                "priceEuro": "3.79",
+                "taxEuro": "0.26",
+                "oldPrice": "₦ 4,200",
+                "oldPriceEuro": "4.86",
+                "discount": "22%"
+            },
+            "tags": "BLF|BLF_08|BLF_09|Boost|DOW_99|FDYJE|JF23_10|JMALL|TBOOST",
+            "rating": {
+                "average": 4.4,
+                "totalRatings": 859
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/24/9523401/1.jpg?1267",
+            "url": "/nivea-dry-impact-roll-on-for-men-72h-50ml-pack-of-3-104325942.html",
+            "badges": {
+                "main": {
+                    "name": "Official Store",
+                    "identifier": "JMALL",
+                    "url": "/all-products/?tag=JMALL"
+                },
+                "campaign": {
+                    "name": "FDYJE",
+                    "identifier": "FDYJE",
+                    "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+                    "url": "/all-products/?tag=FDYJE"
+                }
+            },
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "NI930ST22E5UCNAFAMZ-142476219",
+                    "loginUrl": "/customer/account/login/?tkWl=NI930ST22E5UCNAFAMZ-142476219&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "3275.00",
+                        "price": "₦ 3,275",
+                        "priceEuro": "3.79",
+                        "taxEuro": "0.26",
+                        "oldPrice": "₦ 4,200",
+                        "oldPriceEuro": "4.86",
+                        "discount": "22%"
+                    }
+                }
+            ],
+            "selectedVariation": "NI930ST22E5UCNAFAMZ-142476219"
+        },
+        {
+            "sku": "DI119ST39PVRTNAFAMZ",
+            "name": "Natural Vitamin E Oil 70000 Iu Facial Serum",
+            "displayName": "Disaar Natural Vitamin E Oil 70000 Iu Facial Serum",
+            "brand": "Disaar",
+            "sellerId": 141123,
+            "categories": "Health & Beauty/Beauty & Personal Care/Personal Care/Skin Care/Face/Creams & Moisturizers/Face Oil",
+            "prices": {
+                "rawPrice": "2999.00",
+                "price": "₦ 2,999",
+                "priceEuro": "3.47",
+                "taxEuro": "0.24"
+            },
+            "tags": "CP_MT137|CP_UN269|CP_UN296|DOW_101|FDYJE|TDBOOSTING",
+            "rating": {
+                "average": 3.8,
+                "totalRatings": 17
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/97/7226491/1.jpg?0426",
+            "url": "/natural-vitamin-e-oil-70000-iu-facial-serum-disaar-mpg1726479.html",
+            "badges": {
+                "campaign": {
+                    "name": "FDYJE",
+                    "identifier": "FDYJE",
+                    "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+                    "url": "/all-products/?tag=FDYJE"
+                }
+            },
+            "isBuyable": true,
+            "simples": [
+                {
+                    "sku": "DI119ST39PVRTNAFAMZ-299596298",
+                    "loginUrl": "/customer/account/login/?tkWl=DI119ST39PVRTNAFAMZ-299596298&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "2999.00",
+                        "price": "₦ 2,999",
+                        "priceEuro": "3.47",
+                        "taxEuro": "0.24"
+                    }
+                }
+            ],
+            "selectedVariation": "DI119ST39PVRTNAFAMZ-299596298"
+        },
+        {
+            "sku": "NI930ST23IVW4NAFAMZ",
+            "name": "Radiant & Beauty Even Glow Body Lotion For Women - 400ml - Pack Of 2",
+            "displayName": "NIVEA Radiant & Beauty Even Glow Body Lotion For Women - 400ml - Pack Of 2",
+            "brand": "NIVEA",
+            "isShopExpress": true,
+            "categories": "Health & Beauty/Beauty & Personal Care/Personal Care/Skin Care/Body/Moisturizers",
+            "prices": {
+                "rawPrice": "5405.00",
+                "price": "₦ 5,405",
+                "priceEuro": "6.26",
+                "taxEuro": "0.44",
+                "oldPrice": "₦ 7,200",
+                "oldPriceEuro": "8.33",
+                "discount": "25%"
+            },
+            "tags": "BLF|BLF_08|BLF_09|Boost|CP_MT138|CP_MT147|CP_MT148|CP_MT149|CP_MT150|DOW_287|FDYJE|JF23_10|JMALL|TBOOST",
+            "rating": {
+                "average": 4.3,
+                "totalRatings": 305
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/26/8523401/1.jpg?6963",
+            "url": "/nivea-radiant-beauty-even-glow-body-lotion-for-women-400ml-pack-of-2-104325862.html",
+            "badges": {
+                "main": {
+                    "name": "Official Store",
+                    "identifier": "JMALL",
+                    "url": "/all-products/?tag=JMALL"
+                },
+                "campaign": {
+                    "name": "FDYJE",
+                    "identifier": "FDYJE",
+                    "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+                    "url": "/all-products/?tag=FDYJE"
+                }
+            },
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "NI930ST23IVW4NAFAMZ-142476139",
+                    "loginUrl": "/customer/account/login/?tkWl=NI930ST23IVW4NAFAMZ-142476139&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "5405.00",
+                        "price": "₦ 5,405",
+                        "priceEuro": "6.26",
+                        "taxEuro": "0.44",
+                        "oldPrice": "₦ 7,200",
+                        "oldPriceEuro": "8.33",
+                        "discount": "25%"
+                    }
+                }
+            ],
+            "selectedVariation": "NI930ST23IVW4NAFAMZ-142476139"
+        },
+        {
+            "sku": "LO359ST45O8GMNAFAMZ",
+            "name": "Coconut Souffle Light Moisturizing Hairdress",
+            "displayName": "Mizani Coconut Souffle Light Moisturizing Hairdress",
+            "brand": "Mizani",
+            "sellerId": 403633,
+            "categories": "Health & Beauty/Beauty & Personal Care/Hair Care/Conditioner",
+            "prices": {
+                "rawPrice": "22550.00",
+                "price": "₦ 22,550",
+                "priceEuro": "26.10",
+                "taxEuro": "1.82"
+            },
+            "tags": "Boost|JMALL|TDBOOSTING",
+            "rating": {
+                "average": 5,
+                "totalRatings": 1
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/51/3934942/1.jpg?9342",
+            "url": "/mizani-coconut-souffle-light-moisturizing-hairdress-249439315.html",
+            "badges": {
+                "main": {
+                    "name": "Official Store",
+                    "identifier": "JMALL",
+                    "url": "/all-products/?tag=JMALL"
+                }
+            },
+            "isBuyable": true,
+            "simples": [
+                {
+                    "sku": "LO359ST45O8GMNAFAMZ-378266477",
+                    "loginUrl": "/customer/account/login/?tkWl=LO359ST45O8GMNAFAMZ-378266477&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "22550.00",
+                        "price": "₦ 22,550",
+                        "priceEuro": "26.10",
+                        "taxEuro": "1.82"
+                    }
+                }
+            ],
+            "selectedVariation": "LO359ST45O8GMNAFAMZ-378266477"
+        },
+        {
+            "sku": "NI930ST265LM4NAFAMZ",
+            "name": "Deep Impact Body Lotion 400ml + 50ml Roll-on",
+            "displayName": "NIVEA Deep Impact Body Lotion 400ml + 50ml Roll-on",
+            "brand": "NIVEA",
+            "isShopExpress": true,
+            "categories": "Health & Beauty/Beauty & Personal Care/Personal Care/Skin Care/Body/Moisturizers",
+            "prices": {
+                "rawPrice": "3400.00",
+                "price": "₦ 3,400",
+                "priceEuro": "3.94",
+                "taxEuro": "0.27",
+                "oldPrice": "₦ 4,650",
+                "oldPriceEuro": "5.38",
+                "discount": "27%"
+            },
+            "tags": "BLF|BLF_15|CP_MT68|FDYJE|JMALL|TBOOST|XMAS|xmas_01|xmas_04|xmas_07",
+            "rating": {
+                "average": 4.5,
+                "totalRatings": 229
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/31/2713401/2.jpg?9535",
+            "url": "/nourishing-cocoa-body-lotion-400ml-free-dry-fresh-roll-on-for-men-50ml-nivea-mpg1657713.html",
+            "badges": {
+                "main": {
+                    "name": "Official Store",
+                    "identifier": "JMALL",
+                    "url": "/all-products/?tag=JMALL"
+                },
+                "campaign": {
+                    "name": "XMAS",
+                    "identifier": "XMAS",
+                    "image": "https://ng.jumia.is/badges/xmas/1/138x18.png?0528",
+                    "url": "/all-products/?tag=XMAS"
+                }
+            },
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "NI930ST265LM4NAFAMZ-142467374",
+                    "loginUrl": "/customer/account/login/?tkWl=NI930ST265LM4NAFAMZ-142467374&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "3400.00",
+                        "price": "₦ 3,400",
+                        "priceEuro": "3.94",
+                        "taxEuro": "0.27",
+                        "oldPrice": "₦ 4,650",
+                        "oldPriceEuro": "5.38",
+                        "discount": "27%"
+                    }
+                }
+            ],
+            "selectedVariation": "NI930ST265LM4NAFAMZ-142467374"
+        },
+        {
+            "sku": "RO613ST4GXB8LNAFAMZ",
+            "name": "Vitamin C Serum [Anti-Aging Serum]---30ml",
+            "displayName": "Roushun Vitamin C Serum [Anti-Aging Serum]---30ml",
+            "brand": "Roushun",
+            "sellerId": 107787,
+            "isShopExpress": true,
+            "categories": "Health & Beauty/Beauty & Personal Care/Personal Care/Skin Care/Face/Treatments & Masks",
+            "prices": {
+                "rawPrice": "2295.00",
+                "price": "₦ 2,295",
+                "priceEuro": "2.66",
+                "taxEuro": "0.19",
+                "oldPrice": "₦ 5,000",
+                "oldPriceEuro": "5.79",
+                "discount": "54%"
+            },
+            "tags": "BLF|BLF_08|BLF_09|CP_MT147|CP_MT148|CP_MT149|CP_MT150|DOW_287|DOW_99|FDYJE|JF23_10|TBOOST",
+            "rating": {
+                "average": 3.9,
+                "totalRatings": 486
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/70/2927732/1.jpg?9345",
+            "url": "/roushun-vitamin-c-serum-anti-aging-serum-30ml-237729207.html",
+            "badges": {
+                "campaign": {
+                    "name": "FDYJE",
+                    "identifier": "FDYJE",
+                    "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+                    "url": "/all-products/?tag=FDYJE"
+                }
+            },
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "RO613ST4GXB8LNAFAMZ-363597829",
+                    "loginUrl": "/customer/account/login/?tkWl=RO613ST4GXB8LNAFAMZ-363597829&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "2295.00",
+                        "price": "₦ 2,295",
+                        "priceEuro": "2.66",
+                        "taxEuro": "0.19",
+                        "oldPrice": "₦ 5,000",
+                        "oldPriceEuro": "5.79",
+                        "discount": "54%"
+                    }
+                }
+            ],
+            "selectedVariation": "RO613ST4GXB8LNAFAMZ-363597829"
+        },
+        {
+            "sku": "PE787ST4MVNADNAFAMZ",
+            "name": "Brightening Vitamin C Serum/Anti-acne",
+            "displayName": "Pei Mei Brightening Vitamin C Serum/Anti-acne",
+            "brand": "Pei Mei",
+            "sellerId": 107787,
+            "isShopExpress": true,
+            "categories": "Health & Beauty/Beauty & Personal Care/Personal Care/Skin Care/Eyes/Serums",
+            "prices": {
+                "rawPrice": "1899.00",
+                "price": "₦ 1,899",
+                "priceEuro": "2.20",
+                "taxEuro": "0.15",
+                "oldPrice": "₦ 5,000",
+                "oldPriceEuro": "5.79",
+                "discount": "62%"
+            },
+            "tags": "BLF|CP_MT147|CP_MT148|CP_MT149|CP_MT150|DOW_287|DOW_99|FDYJE|JF23_10|TBOOST",
+            "rating": {
+                "average": 4,
+                "totalRatings": 223
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/80/2927732/1.jpg?9345",
+            "url": "/pei-mei-brightening-vitamin-c-serumanti-acne-237729208.html",
+            "badges": {
+                "campaign": {
+                    "name": "FDYJE",
+                    "identifier": "FDYJE",
+                    "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+                    "url": "/all-products/?tag=FDYJE"
+                }
+            },
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "PE787ST4MVNADNAFAMZ-363597830",
+                    "loginUrl": "/customer/account/login/?tkWl=PE787ST4MVNADNAFAMZ-363597830&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "1899.00",
+                        "price": "₦ 1,899",
+                        "priceEuro": "2.20",
+                        "taxEuro": "0.15",
+                        "oldPrice": "₦ 5,000",
+                        "oldPriceEuro": "5.79",
+                        "discount": "62%"
+                    }
+                }
+            ],
+            "selectedVariation": "PE787ST4MVNADNAFAMZ-363597830"
+        },
+        {
+            "sku": "CE183ST3R2N01NAFAMZ",
+            "name": "Acne Control Cleanser With 2% Salicylic Acid 237ml",
+            "displayName": "Cerave Acne Control Cleanser With 2% Salicylic Acid 237ml",
+            "brand": "Cerave",
+            "sellerId": 22050,
+            "categories": "Health & Beauty/Beauty & Personal Care/Personal Care/Skin Care/Face/Cleansers",
+            "prices": {
+                "rawPrice": "3999.00",
+                "price": "₦ 3,999",
+                "priceEuro": "4.63",
+                "taxEuro": "0.32",
+                "oldPrice": "₦ 25,000",
+                "oldPriceEuro": "28.94",
+                "discount": "84%"
+            },
+            "tags": "BLF|BLF_08|BLF_09|BLF_13|Boost|CP_MT147|CP_MT148|CP_MT149|CP_MT150|DOW_287|DOW_99|JF23_10|NORET|TBOOST",
+            "rating": {
+                "average": 4,
+                "totalRatings": 579
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/26/8712812/1.jpg?3021",
+            "url": "/cerave-acne-control-cleanser-with-2-salicylic-acid-237ml-218217862.html",
+            "badges": {
+                "campaign": {
+                    "name": "Non-Returnable",
+                    "identifier": "NORET",
+                    "url": "/all-products/?tag=NORET",
+                    "txtColor": "#FFFFFF",
+                    "bgColor": "#FF0004"
+                }
+            },
+            "isBuyable": true,
+            "simples": [
+                {
+                    "sku": "CE183ST3R2N01NAFAMZ-336045577",
+                    "loginUrl": "/customer/account/login/?tkWl=CE183ST3R2N01NAFAMZ-336045577&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "3999.00",
+                        "price": "₦ 3,999",
+                        "priceEuro": "4.63",
+                        "taxEuro": "0.32",
+                        "oldPrice": "₦ 25,000",
+                        "oldPriceEuro": "28.94",
+                        "discount": "84%"
+                    }
+                }
+            ],
+            "selectedVariation": "CE183ST3R2N01NAFAMZ-336045577"
+        },
+        {
+            "sku": "GE779ST4A0Z7SNAFAMZ",
+            "name": "7Days King Of Ginger Hair Growth Oil",
+            "displayName": "7Days King Of Ginger Hair Growth Oil",
+            "brand": "Generic",
+            "sellerId": 107787,
+            "isShopExpress": true,
+            "categories": "Health & Beauty/Beauty & Personal Care/Hair Care/Hair Loss Products/Hair Regrowth Treatments",
+            "prices": {
+                "rawPrice": "1799.00",
+                "price": "₦ 1,799",
+                "priceEuro": "2.08",
+                "taxEuro": "0.15",
+                "oldPrice": "₦ 5,000",
+                "oldPriceEuro": "5.79",
+                "discount": "64%"
+            },
+            "tags": "BLF|FDYJE|TBOOST",
+            "rating": {
+                "average": 3.4,
+                "totalRatings": 88
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/58/7065042/1.jpg?9646",
+            "url": "/generic-7days-king-of-ginger-hair-growth-oil-240560785.html",
+            "badges": {
+                "campaign": {
+                    "name": "FDYJE",
+                    "identifier": "FDYJE",
+                    "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+                    "url": "/all-products/?tag=FDYJE"
+                }
+            },
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "GE779ST4A0Z7SNAFAMZ-367683104",
+                    "loginUrl": "/customer/account/login/?tkWl=GE779ST4A0Z7SNAFAMZ-367683104&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "1799.00",
+                        "price": "₦ 1,799",
+                        "priceEuro": "2.08",
+                        "taxEuro": "0.15",
+                        "oldPrice": "₦ 5,000",
+                        "oldPriceEuro": "5.79",
+                        "discount": "64%"
+                    }
+                }
+            ],
+            "selectedVariation": "GE779ST4A0Z7SNAFAMZ-367683104"
+        },
+        {
+            "sku": "DI119ST4287ECNAFAMZ",
+            "name": "100% Natural Vitamin C Whitening And Moisturizing Oil",
+            "displayName": "Disaar 100% Natural Vitamin C Whitening And Moisturizing Oil",
+            "brand": "Disaar",
+            "sellerId": 107787,
+            "isShopExpress": true,
+            "categories": "Health & Beauty/Beauty & Personal Care/Personal Care/Skin Care/Body/Scrubs & Body Treatments/Body Scrubs",
+            "prices": {
+                "rawPrice": "1999.00",
+                "price": "₦ 1,999",
+                "priceEuro": "2.31",
+                "taxEuro": "0.16",
+                "oldPrice": "₦ 5,000",
+                "oldPriceEuro": "5.79",
+                "discount": "60%"
+            },
+            "tags": "BLF|CP_MT147|CP_MT148|CP_MT149|CP_MT150|DOW_287|DOW_99|FDYJE|NORET|TBOOST",
+            "rating": {
+                "average": 4,
+                "totalRatings": 150
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/45/6067722/1.jpg?8383",
+            "url": "/disaar-100-natural-vitamin-c-whitening-and-moisturizing-oil-227760654.html",
+            "badges": {
+                "campaign": {
+                    "name": "FDYJE",
+                    "identifier": "FDYJE",
+                    "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+                    "url": "/all-products/?tag=FDYJE"
+                }
+            },
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "DI119ST4287ECNAFAMZ-349128318",
+                    "loginUrl": "/customer/account/login/?tkWl=DI119ST4287ECNAFAMZ-349128318&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "1999.00",
+                        "price": "₦ 1,999",
+                        "priceEuro": "2.31",
+                        "taxEuro": "0.16",
+                        "oldPrice": "₦ 5,000",
+                        "oldPriceEuro": "5.79",
+                        "discount": "60%"
+                    }
+                }
+            ],
+            "selectedVariation": "DI119ST4287ECNAFAMZ-349128318"
+        },
+        {
+            "sku": "NO345ST0V0XU3NAFAMZ",
+            "name": "2 IN 1 HAIR STRAIGHTENER AND CURLER.",
+            "displayName": "Nova 2 IN 1 HAIR STRAIGHTENER AND CURLER.",
+            "brand": "Nova",
+            "sellerId": 107787,
+            "isShopExpress": true,
+            "categories": "Health & Beauty/Beauty & Personal Care/Hair Care/Styling Tools & Appliances/Straighteners",
+            "prices": {
+                "rawPrice": "2950.00",
+                "price": "₦ 2,950",
+                "priceEuro": "3.41",
+                "taxEuro": "0.24",
+                "oldPrice": "₦ 3,348",
+                "oldPriceEuro": "3.88",
+                "discount": "12%"
+            },
+            "tags": "BLF|BLF_08|BLF_09|Boost|CP_MT138|Camp_45|Camp_61|FDYJE|JF23_10|Merch_150|Merch_189|Merch_80|NORET|TBOOST",
+            "rating": {
+                "average": 3.7,
+                "totalRatings": 1201
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/52/111947/1.jpg?1716",
+            "url": "/nova-2-in-1-hair-straightener-and-curler.-74911125.html",
+            "badges": {
+                "campaign": {
+                    "name": "FDYJE",
+                    "identifier": "FDYJE",
+                    "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+                    "url": "/all-products/?tag=FDYJE"
+                }
+            },
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "NO345ST0V0XU3NAFAMZ-103605124",
+                    "loginUrl": "/customer/account/login/?tkWl=NO345ST0V0XU3NAFAMZ-103605124&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "2950.00",
+                        "price": "₦ 2,950",
+                        "priceEuro": "3.41",
+                        "taxEuro": "0.24",
+                        "oldPrice": "₦ 3,348",
+                        "oldPriceEuro": "3.88",
+                        "discount": "12%"
+                    }
+                }
+            ],
+            "selectedVariation": "NO345ST0V0XU3NAFAMZ-103605124"
+        },
+        {
+            "sku": "BR049ST2HJB5PNAFAMZ",
+            "name": "2PCS UV Aqua Rich Watery Essence Sunscreen SPF 50 (50ml)",
+            "displayName": "Biore 2PCS UV Aqua Rich Watery Essence Sunscreen SPF 50 (50ml)",
+            "brand": "Biore",
+            "sellerId": 103968,
+            "categories": "Health & Beauty/Beauty & Personal Care/Personal Care/Skin Care/Sunscreens & Tanning Products/Sunscreens/Facial Sunscreens",
+            "prices": {
+                "rawPrice": "5700.00",
+                "price": "₦ 5,700",
+                "priceEuro": "6.60",
+                "taxEuro": "0.46",
+                "oldPrice": "₦ 8,500",
+                "oldPriceEuro": "9.84",
+                "discount": "33%"
+            },
+            "tags": "BLF|BLF_08|BLF_09|BLF_13|JF23_10|NORET|TBOOST",
+            "rating": {
+                "average": 4.2,
+                "totalRatings": 1464
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/50/3867491/1.jpg?6509",
+            "url": "/2pcs-uv-aqua-rich-watery-essence-sunscreen-spf-50-50ml-biore-mpg1681696.html",
+            "badges": {
+                "campaign": {
+                    "name": "Non-Returnable",
+                    "identifier": "NORET",
+                    "url": "/all-products/?tag=NORET",
+                    "txtColor": "#FFFFFF",
+                    "bgColor": "#FF0004"
+                }
+            },
+            "isBuyable": true,
+            "mpg": {
+                "lowPriceFormatted": "₦ 5,700",
+                "otherOffers": 3
+            },
+            "simples": [
+                {
+                    "sku": "BR049ST2HJB5PNAFAMZ-300011696",
+                    "loginUrl": "/customer/account/login/?tkWl=BR049ST2HJB5PNAFAMZ-300011696&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "5700.00",
+                        "price": "₦ 5,700",
+                        "priceEuro": "6.60",
+                        "taxEuro": "0.46",
+                        "oldPrice": "₦ 8,500",
+                        "oldPriceEuro": "9.84",
+                        "discount": "33%"
+                    }
+                }
+            ],
+            "selectedVariation": "BR049ST2HJB5PNAFAMZ-300011696"
+        },
+        {
+            "sku": "AI075ST3E6KI5NAFAMZ",
+            "name": "Black Facial Mask Brighteens Complex + Free Black Head",
+            "displayName": "Aichun Beauty Black Facial Mask Brighteens Complex + Free Black Head",
+            "brand": "Aichun Beauty",
+            "sellerId": 107787,
+            "isShopExpress": true,
+            "categories": "Health & Beauty/Beauty & Personal Care/Personal Care/Skin Care/Face/Treatments & Masks/Masks",
+            "prices": {
+                "rawPrice": "1890.00",
+                "price": "₦ 1,890",
+                "priceEuro": "2.19",
+                "taxEuro": "0.15",
+                "oldPrice": "₦ 10,000",
+                "oldPriceEuro": "11.58",
+                "discount": "81%"
+            },
+            "tags": "BLF|BLF_08|BLF_09|Boost|DOW_101|FDYJE|JF23_10|NORET|TBOOST",
+            "rating": {
+                "average": 3.8,
+                "totalRatings": 381
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/05/2196612/1.jpg?6851",
+            "url": "/aichun-beauty-black-facial-mask-brighteens-complex-free-black-head-216691250.html",
+            "badges": {
+                "campaign": {
+                    "name": "FDYJE",
+                    "identifier": "FDYJE",
+                    "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+                    "url": "/all-products/?tag=FDYJE"
+                }
+            },
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "AI075ST3E6KI5NAFAMZ-334235899",
+                    "loginUrl": "/customer/account/login/?tkWl=AI075ST3E6KI5NAFAMZ-334235899&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "1890.00",
+                        "price": "₦ 1,890",
+                        "priceEuro": "2.19",
+                        "taxEuro": "0.15",
+                        "oldPrice": "₦ 10,000",
+                        "oldPriceEuro": "11.58",
+                        "discount": "81%"
+                    }
+                }
+            ],
+            "selectedVariation": "AI075ST3E6KI5NAFAMZ-334235899"
+        },
+        {
+            "sku": "VA421ST4QL7APNAFAMZ",
+            "name": "Pink Lip Balm - Therapy Pink",
+            "displayName": "Vaseline Pink Lip Balm - Therapy Pink",
+            "brand": "Vaseline",
+            "sellerId": 400424,
+            "categories": "Health & Beauty/Beauty & Personal Care/Personal Care/Lip Care/Lip Balms & Treatments",
+            "prices": {
+                "rawPrice": "999.00",
+                "price": "₦ 999",
+                "priceEuro": "1.16",
+                "taxEuro": "0.08"
+            },
+            "tags": "BLF|BLF_09|CP_UN269|CP_UN296|TBOOST",
+            "rating": {
+                "average": 3.5,
+                "totalRatings": 42
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/86/5239532/1.jpg?9067",
+            "url": "/vaseline-pink-lip-balm-therapy-pink-235932568.html",
+            "isBuyable": true,
+            "simples": [
+                {
+                    "sku": "VA421ST4QL7APNAFAMZ-361042837",
+                    "loginUrl": "/customer/account/login/?tkWl=VA421ST4QL7APNAFAMZ-361042837&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "999.00",
+                        "price": "₦ 999",
+                        "priceEuro": "1.16",
+                        "taxEuro": "0.08"
+                    }
+                }
+            ],
+            "selectedVariation": "VA421ST4QL7APNAFAMZ-361042837"
+        },
+        {
+            "sku": "GE779ST4GVO2WNAFAMZ",
+            "name": "Salon Professional Spray Bottle",
+            "displayName": "Salon Professional Spray Bottle",
+            "brand": "Generic",
+            "sellerId": 107787,
+            "isShopExpress": true,
+            "categories": "Health & Beauty/Beauty & Personal Care/Hair Care/Hair Coloring Products/Coloring & Highlighting Tools/Applicator Bottles",
+            "prices": {
+                "rawPrice": "990.00",
+                "price": "₦ 990",
+                "priceEuro": "1.15",
+                "taxEuro": "0.08",
+                "oldPrice": "₦ 5,000",
+                "oldPriceEuro": "5.79",
+                "discount": "80%"
+            },
+            "tags": "BLF|CP_MT147|CP_MT148|CP_MT149|CP_MT150|DOW_287|DOW_99|FDYJE|TBOOST",
+            "rating": {
+                "average": 4.2,
+                "totalRatings": 219
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/70/2161042/1.jpg?8323",
+            "url": "/generic-salon-professional-spray-bottle-240161207.html",
+            "badges": {
+                "campaign": {
+                    "name": "FDYJE",
+                    "identifier": "FDYJE",
+                    "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+                    "url": "/all-products/?tag=FDYJE"
+                }
+            },
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "GE779ST4GVO2WNAFAMZ-366941263",
+                    "loginUrl": "/customer/account/login/?tkWl=GE779ST4GVO2WNAFAMZ-366941263&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "990.00",
+                        "price": "₦ 990",
+                        "priceEuro": "1.15",
+                        "taxEuro": "0.08",
+                        "oldPrice": "₦ 5,000",
+                        "oldPriceEuro": "5.79",
+                        "discount": "80%"
+                    }
+                }
+            ],
+            "selectedVariation": "GE779ST4GVO2WNAFAMZ-366941263"
+        },
+        {
+            "sku": "CE183ST3JPCWGNAFAMZ",
+            "name": "Foaming Cleanser For Normal To Oily Skin 8 Fl Oz/ 236ml",
+            "displayName": "Cerave Foaming Cleanser For Normal To Oily Skin 8 Fl Oz/ 236ml",
+            "brand": "Cerave",
+            "sellerId": 103968,
+            "categories": "Health & Beauty/Beauty & Personal Care/Personal Care/Skin Care/Face/Cleansers",
+            "prices": {
+                "rawPrice": "3999.00",
+                "price": "₦ 3,999",
+                "priceEuro": "4.63",
+                "taxEuro": "0.32",
+                "oldPrice": "₦ 19,000",
+                "oldPriceEuro": "21.99",
+                "discount": "79%"
+            },
+            "tags": "BLF|BLF_08|BLF_09|CP_MT147|CP_MT148|CP_MT149|CP_MT150|DOW_287|DOW_99|JF23_10|TBOOST",
+            "rating": {
+                "average": 4.2,
+                "totalRatings": 245
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/14/4943522/1.jpg?5646",
+            "url": "/foaming-cleanser-for-normal-to-oily-skin-8-fl-oz-236ml-cerave-mpg1968578.html",
+            "isBuyable": true,
+            "mpg": {
+                "lowPriceFormatted": "₦ 3,999",
+                "otherOffers": 9
+            },
+            "simples": [
+                {
+                    "sku": "CE183ST3JPCWGNAFAMZ-344968700",
+                    "loginUrl": "/customer/account/login/?tkWl=CE183ST3JPCWGNAFAMZ-344968700&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "3999.00",
+                        "price": "₦ 3,999",
+                        "priceEuro": "4.63",
+                        "taxEuro": "0.32",
+                        "oldPrice": "₦ 19,000",
+                        "oldPriceEuro": "21.99",
+                        "discount": "79%"
+                    }
+                }
+            ],
+            "selectedVariation": "CE183ST3JPCWGNAFAMZ-344968700"
+        },
+        {
+            "sku": "GE779FC0VMLSONAFAMZ",
+            "name": "Unisex Anti Blue Light Protective Computer Screen Glasses",
+            "displayName": "Unisex Anti Blue Light Protective Computer Screen Glasses",
+            "brand": "Fashion",
+            "sellerId": 15549,
+            "isShopExpress": true,
+            "categories": "Health & Beauty/Medical Supplies & Equipment/Daily Living Aids/Visual Impairment Aids/Reading Glasses",
+            "prices": {
+                "rawPrice": "1890.00",
+                "price": "₦ 1,890",
+                "priceEuro": "2.19",
+                "taxEuro": "0.15",
+                "oldPrice": "₦ 6,000",
+                "oldPriceEuro": "6.95",
+                "discount": "69%"
+            },
+            "tags": "BLF|Boost|FDYJE|JF23_10|TBOOST",
+            "rating": {
+                "average": 4.1,
+                "totalRatings": 5654
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/53/122776/1.jpg?7527",
+            "url": "/fashion-unisex-anti-blue-light-protective-computer-screen-glasses-67722135.html",
+            "badges": {
+                "campaign": {
+                    "name": "FDYJE",
+                    "identifier": "FDYJE",
+                    "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+                    "url": "/all-products/?tag=FDYJE"
+                }
+            },
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "GE779FC0VMLSONAFAMZ-94939267",
+                    "loginUrl": "/customer/account/login/?tkWl=GE779FC0VMLSONAFAMZ-94939267&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "1890.00",
+                        "price": "₦ 1,890",
+                        "priceEuro": "2.19",
+                        "taxEuro": "0.15",
+                        "oldPrice": "₦ 6,000",
+                        "oldPriceEuro": "6.95",
+                        "discount": "69%"
+                    }
+                }
+            ],
+            "selectedVariation": "GE779FC0VMLSONAFAMZ-94939267"
+        },
+        {
+            "sku": "CE183ST22ULI8NAFAMZ",
+            "name": "Daily Moisturizing Lotion-12 Oz 236 ML",
+            "displayName": "Cerave Daily Moisturizing Lotion-12 Oz 236 ML",
+            "brand": "Cerave",
+            "sellerId": 103968,
+            "categories": "Health & Beauty/Beauty & Personal Care/Personal Care/Skin Care/Body/Moisturizers",
+            "prices": {
+                "rawPrice": "4200.00",
+                "price": "₦ 4,200",
+                "priceEuro": "4.86",
+                "taxEuro": "0.34",
+                "oldPrice": "₦ 9,000",
+                "oldPriceEuro": "10.42",
+                "discount": "53%"
+            },
+            "tags": "BLF|BLF_08|BLF_09|DOW_99|TBOOST",
+            "rating": {
+                "average": 4.2,
+                "totalRatings": 252
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/25/7191361/1.jpg?4328",
+            "url": "/daily-moisturizing-lotion-12-oz-236-ml-cerave-mpg1682057.html",
+            "isBuyable": true,
+            "mpg": {
+                "lowPriceFormatted": "₦ 4,200",
+                "otherOffers": 2
+            },
+            "simples": [
+                {
+                    "sku": "CE183ST22ULI8NAFAMZ-242930388",
+                    "loginUrl": "/customer/account/login/?tkWl=CE183ST22ULI8NAFAMZ-242930388&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "4200.00",
+                        "price": "₦ 4,200",
+                        "priceEuro": "4.86",
+                        "taxEuro": "0.34",
+                        "oldPrice": "₦ 9,000",
+                        "oldPriceEuro": "10.42",
+                        "discount": "53%"
+                    }
+                }
+            ],
+            "selectedVariation": "CE183ST22ULI8NAFAMZ-242930388"
+        },
+        {
+            "sku": "NO345ST00H9VXNAFAMZ",
+            "name": "2 In 1 Hair Straightener And Curler With Hand Dryer - Pink",
+            "displayName": "Nova 2 In 1 Hair Straightener And Curler With Hand Dryer - Pink",
+            "brand": "Nova",
+            "sellerId": 105797,
+            "isShopExpress": true,
+            "categories": "Health & Beauty/Beauty & Personal Care/Hair Care/Styling Tools & Appliances/Straighteners",
+            "prices": {
+                "rawPrice": "5047.02",
+                "price": "₦ 5,047",
+                "priceEuro": "5.84",
+                "taxEuro": "0.41",
+                "oldPrice": "₦ 6,000",
+                "oldPriceEuro": "6.95",
+                "discount": "16%"
+            },
+            "tags": "BLF|Boost|CP_MT147|CP_MT148|CP_MT149|CP_MT150|DOW_101|DOW_287|FDYJE|JA23_07|JF23_10|Merch_150|NORET|TBOOST|XMAS",
+            "rating": {
+                "average": 3.8,
+                "totalRatings": 1771
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/00/805965/1.jpg?6882",
+            "url": "/nova-2-in-1-hair-straightener-and-curler-with-hand-dryer-pink-56950800.html",
+            "badges": {
+                "campaign": {
+                    "name": "XMAS",
+                    "identifier": "XMAS",
+                    "image": "https://ng.jumia.is/badges/xmas/1/138x18.png?0528",
+                    "url": "/all-products/?tag=XMAS"
+                }
+            },
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "NO345ST00H9VXNAFAMZ-79342003",
+                    "loginUrl": "/customer/account/login/?tkWl=NO345ST00H9VXNAFAMZ-79342003&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "5047.02",
+                        "price": "₦ 5,047",
+                        "priceEuro": "5.84",
+                        "taxEuro": "0.41",
+                        "oldPrice": "₦ 6,000",
+                        "oldPriceEuro": "6.95",
+                        "discount": "16%"
+                    }
+                }
+            ],
+            "selectedVariation": "NO345ST00H9VXNAFAMZ-79342003"
+        },
+        {
+            "sku": "GE779ST02DS1DNAFAMZ",
+            "name": "Rechargeable Metal Simple Style Hair Clipper Black Gold",
+            "displayName": "Rechargeable Metal Simple Style Hair Clipper Black Gold",
+            "brand": "Generic",
+            "sellerId": 266825,
+            "isShopExpress": true,
+            "categories": "Health & Beauty/Beauty & Personal Care/Hair Care/Hair Cutting Tools/Hair Clippers & Accessories/Hair Clippers",
+            "prices": {
+                "rawPrice": "3990.00",
+                "price": "₦ 3,990",
+                "priceEuro": "4.62",
+                "taxEuro": "0.32",
+                "oldPrice": "₦ 6,990",
+                "oldPriceEuro": "8.09",
+                "discount": "43%"
+            },
+            "tags": "BLF|BLF_09|Boost|COL_321|CP_MT137|CP_MT138|CP_MT147|CP_MT148|CP_MT149|CP_MT150|CP_UN269|CP_UN296|Camp_45|Camp_59|DOW_101|DOW_287|FDYJE|JF23_10|TBOOST|XMAS|xmas_04",
+            "rating": {
+                "average": 3.7,
+                "totalRatings": 728
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/04/002097/1.jpg?9371",
+            "url": "/generic-rechargeable-metal-simple-style-hair-clipper-black-gold-79020040.html",
+            "badges": {
+                "campaign": {
+                    "name": "XMAS",
+                    "identifier": "XMAS",
+                    "image": "https://ng.jumia.is/badges/xmas/1/138x18.png?0528",
+                    "url": "/all-products/?tag=XMAS"
+                }
+            },
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "GE779ST02DS1DNAFAMZ-108498782",
+                    "loginUrl": "/customer/account/login/?tkWl=GE779ST02DS1DNAFAMZ-108498782&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "3990.00",
+                        "price": "₦ 3,990",
+                        "priceEuro": "4.62",
+                        "taxEuro": "0.32",
+                        "oldPrice": "₦ 6,990",
+                        "oldPriceEuro": "8.09",
+                        "discount": "43%"
+                    }
+                }
+            ],
+            "selectedVariation": "GE779ST02DS1DNAFAMZ-108498782"
+        },
+        {
+            "sku": "GE779SE4ENXKRNAFAMZ",
+            "name": "Anti Blue Rays,Anti Blue Light Blocking Glasses",
+            "displayName": "Anti Blue Rays,Anti Blue Light Blocking Glasses",
+            "brand": "Generic",
+            "sellerId": 325135,
+            "isShopExpress": true,
+            "categories": "Health & Beauty/Medical Supplies & Equipment/Daily Living Aids/Visual Impairment Aids/Reading Glasses",
+            "prices": {
+                "rawPrice": "1995.00",
+                "price": "₦ 1,995",
+                "priceEuro": "2.31",
+                "taxEuro": "0.16",
+                "oldPrice": "₦ 9,000",
+                "oldPriceEuro": "10.42",
+                "discount": "78%"
+            },
+            "tags": "BLF|BLF_09|FDYJE|JA23_06|JF23_10|TBOOST",
+            "rating": {
+                "average": 4.1,
+                "totalRatings": 238
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/66/4959312/1.jpg?8094",
+            "url": "/generic-anti-blue-raysanti-blue-light-blocking-glasses-213959466.html",
+            "badges": {
+                "campaign": {
+                    "name": "FDYJE",
+                    "identifier": "FDYJE",
+                    "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+                    "url": "/all-products/?tag=FDYJE"
+                }
+            },
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "GE779SE4ENXKRNAFAMZ-331033257",
+                    "loginUrl": "/customer/account/login/?tkWl=GE779SE4ENXKRNAFAMZ-331033257&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "1995.00",
+                        "price": "₦ 1,995",
+                        "priceEuro": "2.31",
+                        "taxEuro": "0.16",
+                        "oldPrice": "₦ 9,000",
+                        "oldPriceEuro": "10.42",
+                        "discount": "78%"
+                    }
+                }
+            ],
+            "selectedVariation": "GE779SE4ENXKRNAFAMZ-331033257"
+        },
+        {
+            "sku": "GE779AT34VL77NAFAMZ",
+            "name": "Bullet Female GSpot Vibrator For Adult Sex Toy",
+            "displayName": "LZDUATAN Bullet Female GSpot Vibrator For Adult Sex Toy",
+            "brand": "LZDUATAN",
+            "sellerId": 341891,
+            "isShopExpress": true,
+            "categories": "Health & Beauty/Sexual Wellness/Adult Toys & Games/Sex Toys/Vibrators",
+            "prices": {
+                "rawPrice": "2289.00",
+                "price": "₦ 2,289",
+                "priceEuro": "2.65",
+                "taxEuro": "0.18",
+                "oldPrice": "₦ 2,500",
+                "oldPriceEuro": "2.89",
+                "discount": "8%"
+            },
+            "tags": "BLF|BLF_08|Boost|COL_321|FDYJE|TBOOST",
+            "rating": {
+                "average": 3.8,
+                "totalRatings": 430
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/89/5908031/1.jpg?5594",
+            "url": "/lzduatan-bullet-female-gspot-vibrator-for-adult-sex-toy-130809598.html",
+            "badges": {
+                "campaign": {
+                    "name": "FDYJE",
+                    "identifier": "FDYJE",
+                    "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+                    "url": "/all-products/?tag=FDYJE"
+                }
+            },
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "GE779AT34VL77NAFAMZ-178992738",
+                    "loginUrl": "/customer/account/login/?tkWl=GE779AT34VL77NAFAMZ-178992738&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "2289.00",
+                        "price": "₦ 2,289",
+                        "priceEuro": "2.65",
+                        "taxEuro": "0.18",
+                        "oldPrice": "₦ 2,500",
+                        "oldPriceEuro": "2.89",
+                        "discount": "8%"
+                    }
+                }
+            ],
+            "selectedVariation": "GE779AT34VL77NAFAMZ-178992738"
+        },
+        {
+            "sku": "CE183ST3B7TBGNAFAMZ",
+            "name": "AM And PM SPF 30 Facial Moisturizing Lotion, 3oz Each",
+            "displayName": "Cerave AM And PM SPF 30 Facial Moisturizing Lotion, 3oz Each",
+            "brand": "Cerave",
+            "sellerId": 22050,
+            "categories": "Health & Beauty/Beauty & Personal Care/Personal Care/Skin Care/Body/Moisturizers",
+            "prices": {
+                "rawPrice": "6300.00",
+                "price": "₦ 6,300",
+                "priceEuro": "7.29",
+                "taxEuro": "0.51",
+                "oldPrice": "₦ 25,000",
+                "oldPriceEuro": "28.94",
+                "discount": "75%"
+            },
+            "tags": "BLF|BLF_08|BLF_09|CP_MT147|CP_MT148|CP_MT149|CP_MT150|DOW_287|DOW_99|TBOOST",
+            "rating": {
+                "average": 4.2,
+                "totalRatings": 99
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/00/2388922/1.jpg?2612",
+            "url": "/am-and-pm-spf-30-facial-moisturizing-lotion-3oz-each-cerave-mpg2703253.html",
+            "isBuyable": true,
+            "mpg": {
+                "lowPriceFormatted": "₦ 6,300",
+                "otherOffers": 3
+            },
+            "simples": [
+                {
+                    "sku": "CE183ST3B7TBGNAFAMZ-353216902",
+                    "loginUrl": "/customer/account/login/?tkWl=CE183ST3B7TBGNAFAMZ-353216902&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "6300.00",
+                        "price": "₦ 6,300",
+                        "priceEuro": "7.29",
+                        "taxEuro": "0.51",
+                        "oldPrice": "₦ 25,000",
+                        "oldPriceEuro": "28.94",
+                        "discount": "75%"
+                    }
+                }
+            ],
+            "selectedVariation": "CE183ST3B7TBGNAFAMZ-353216902"
+        },
+        {
+            "sku": "OX419ST4V7GSFNAFAMZ",
+            "name": "10 Benzoyl Peroxide Lotion For Spot & Acne Treatment",
+            "displayName": "Oxy 10 Benzoyl Peroxide Lotion For Spot & Acne Treatment",
+            "brand": "Oxy",
+            "sellerId": 107787,
+            "isShopExpress": true,
+            "categories": "Health & Beauty/Beauty & Personal Care/Personal Care/Skin Care/Face/Creams & Moisturizers/BB, CC & DD Creams/DD Creams",
+            "prices": {
+                "rawPrice": "2115.00",
+                "price": "₦ 2,115",
+                "priceEuro": "2.45",
+                "taxEuro": "0.17",
+                "oldPrice": "₦ 10,000",
+                "oldPriceEuro": "11.58",
+                "discount": "79%"
+            },
+            "tags": "BLF|BLF_08|BLF_09|Boost|CP_MT137|CP_UN269|CP_UN296|DOW_101|FDYJE|NORET|TBOOST|UND_33",
+            "rating": {
+                "average": 3.8,
+                "totalRatings": 150
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/94/2811512/1.jpg?2558",
+            "url": "/oxy-10-benzoyl-peroxide-lotion-for-spot-acne-treatment-215118249.html",
+            "badges": {
+                "campaign": {
+                    "name": "FDYJE",
+                    "identifier": "FDYJE",
+                    "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+                    "url": "/all-products/?tag=FDYJE"
+                }
+            },
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "OX419ST4V7GSFNAFAMZ-332488943",
+                    "loginUrl": "/customer/account/login/?tkWl=OX419ST4V7GSFNAFAMZ-332488943&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "2115.00",
+                        "price": "₦ 2,115",
+                        "priceEuro": "2.45",
+                        "taxEuro": "0.17",
+                        "oldPrice": "₦ 10,000",
+                        "oldPriceEuro": "11.58",
+                        "discount": "79%"
+                    }
+                }
+            ],
+            "selectedVariation": "OX419ST4V7GSFNAFAMZ-332488943"
+        },
+        {
+            "sku": "GE779ST4KV3BHNAFAMZ",
+            "name": "Green Mask Stick Facial Mask For Black Spots & Pimples",
+            "displayName": "Green Mask Stick Facial Mask For Black Spots & Pimples",
+            "brand": "Generic",
+            "sellerId": 35168,
+            "isShopExpress": true,
+            "categories": "Health & Beauty/Beauty & Personal Care/Personal Care/Skin Care/Face/Treatments & Masks",
+            "prices": {
+                "rawPrice": "2495.00",
+                "price": "₦ 2,495",
+                "priceEuro": "2.89",
+                "taxEuro": "0.20",
+                "oldPrice": "₦ 9,000",
+                "oldPriceEuro": "10.42",
+                "discount": "72%"
+            },
+            "tags": "BLF|BLF_09|FDYJE|JF23_10|TBOOST",
+            "rating": {
+                "average": 3.3,
+                "totalRatings": 172
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/76/9076612/1.jpg?7281",
+            "url": "/green-mask-stick-facial-mask-for-black-spots-and-pimples-generic-mpg1716952.html",
+            "badges": {
+                "campaign": {
+                    "name": "FDYJE",
+                    "identifier": "FDYJE",
+                    "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+                    "url": "/all-products/?tag=FDYJE"
+                }
+            },
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "GE779ST4KV3BHNAFAMZ-334209858",
+                    "loginUrl": "/customer/account/login/?tkWl=GE779ST4KV3BHNAFAMZ-334209858&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "2495.00",
+                        "price": "₦ 2,495",
+                        "priceEuro": "2.89",
+                        "taxEuro": "0.20",
+                        "oldPrice": "₦ 9,000",
+                        "oldPriceEuro": "10.42",
+                        "discount": "72%"
+                    }
+                }
+            ],
+            "selectedVariation": "GE779ST4KV3BHNAFAMZ-334209858"
+        },
+        {
+            "sku": "TH813ST3X2O8FNAFAMZ",
+            "name": "Niacinamide + Salicylic Acid + Hyaluronic Acid",
+            "displayName": "The Ordinary Niacinamide + Salicylic Acid + Hyaluronic Acid",
+            "brand": "The Ordinary",
+            "sellerId": 252012,
+            "categories": "Health & Beauty/Beauty & Personal Care/Personal Care/Skin Care/Eyes/Serums",
+            "prices": {
+                "rawPrice": "8950.00",
+                "price": "₦ 8,950",
+                "priceEuro": "10.36",
+                "taxEuro": "0.72",
+                "oldPrice": "₦ 10,000",
+                "oldPriceEuro": "11.58",
+                "discount": "11%"
+            },
+            "tags": "BLF|BLF_08|BLF_09|TBOOST",
+            "rating": {
+                "average": 4.3,
+                "totalRatings": 110
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/36/9505752/1.jpg?4721",
+            "url": "/the-ordinary-niacinamide-salicylic-acid-hyaluronic-acid-257505963.html",
+            "isBuyable": true,
+            "simples": [
+                {
+                    "sku": "TH813ST3X2O8FNAFAMZ-390883270",
+                    "loginUrl": "/customer/account/login/?tkWl=TH813ST3X2O8FNAFAMZ-390883270&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "8950.00",
+                        "price": "₦ 8,950",
+                        "priceEuro": "10.36",
+                        "taxEuro": "0.72",
+                        "oldPrice": "₦ 10,000",
+                        "oldPriceEuro": "11.58",
+                        "discount": "11%"
+                    }
+                }
+            ],
+            "selectedVariation": "TH813ST3X2O8FNAFAMZ-390883270"
+        },
+        {
+            "sku": "GE779ST3MQXO4NAFAMZ",
+            "name": "10 Piece Professional Styling Hair Comb Set",
+            "displayName": "10 Piece Professional Styling Hair Comb Set",
+            "brand": "Generic",
+            "sellerId": 107787,
+            "isShopExpress": true,
+            "categories": "Health & Beauty/Beauty & Personal Care/Hair Care/Styling Tools & Appliances/Hair Combs",
+            "prices": {
+                "rawPrice": "1699.00",
+                "price": "₦ 1,699",
+                "priceEuro": "1.97",
+                "taxEuro": "0.14",
+                "oldPrice": "₦ 5,000",
+                "oldPriceEuro": "5.79",
+                "discount": "66%"
+            },
+            "tags": "BLF|CP_MT147|CP_MT148|CP_MT149|CP_MT150|DOW_99|FDYJE|NORET|TBOOST",
+            "rating": {
+                "average": 4.3,
+                "totalRatings": 175
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/19/6067722/1.jpg?8379",
+            "url": "/generic-10-piece-professional-styling-hair-comb-set-227760691.html",
+            "badges": {
+                "campaign": {
+                    "name": "FDYJE",
+                    "identifier": "FDYJE",
+                    "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+                    "url": "/all-products/?tag=FDYJE"
+                }
+            },
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "simples": [
+                {
+                    "sku": "GE779ST3MQXO4NAFAMZ-349128357",
+                    "loginUrl": "/customer/account/login/?tkWl=GE779ST3MQXO4NAFAMZ-349128357&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "",
+                    "prices": {
+                        "rawPrice": "1699.00",
+                        "price": "₦ 1,699",
+                        "priceEuro": "1.97",
+                        "taxEuro": "0.14",
+                        "oldPrice": "₦ 5,000",
+                        "oldPriceEuro": "5.79",
+                        "discount": "66%"
+                    }
+                }
+            ],
+            "selectedVariation": "GE779ST3MQXO4NAFAMZ-349128357"
+        },
+        {
+            "sku": "GE779AT3OGKJ8NAFAMZ",
+            "name": "20 Mode  Powerful Rechargeable Magic Wand Vibrator",
+            "displayName": "LZDUATAN 20 Mode  Powerful Rechargeable Magic Wand Vibrator",
+            "brand": "LZDUATAN",
+            "sellerId": 341891,
+            "isShopExpress": true,
+            "categories": "Health & Beauty/Sexual Wellness/Adult Toys & Games/Sex Toys/Vibrators",
+            "prices": {
+                "rawPrice": "6499.00",
+                "price": "₦ 6,499",
+                "priceEuro": "7.52",
+                "taxEuro": "0.52",
+                "oldPrice": "₦ 11,900",
+                "oldPriceEuro": "13.77",
+                "discount": "45%"
+            },
+            "tags": "BLF|BLF_08|Boost|COL_321|FDYJE|TBOOST",
+            "rating": {
+                "average": 4.2,
+                "totalRatings": 482
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/22/4824202/1.jpg?8208",
+            "url": "/lzduatan-20-mode-powerful-rechargeable-magic-wand-vibrator-202428422.html",
+            "badges": {
+                "campaign": {
+                    "name": "FDYJE",
+                    "identifier": "FDYJE",
+                    "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+                    "url": "/all-products/?tag=FDYJE"
+                }
+            },
+            "isBuyable": true,
+            "shopExpress": {
+                "title": "Express Shipping"
+            },
+            "relatedProds": [
+                {
+                    "sku": "GE779AT251AKZNAFAMZ",
+                    "name": "20 Mode Powerful Rechargeable Magic Wand Vibrator",
+                    "url": "/lzduatan-20-mode-powerful-rechargeable-magic-wand-vibrator-130809392.html",
+                    "img": "https://ng.jumia.is/unsafe/fit-in/150x150/filters:fill(white)/product/29/3908031/1.jpg?5096"
+                }
+            ],
+            "simples": [
+                {
+                    "sku": "GE779AT3OGKJ8NAFAMZ-313933390",
+                    "loginUrl": "/customer/account/login/?tkWl=GE779AT3OGKJ8NAFAMZ-313933390&return=%2Fhealth-beauty%2F",
+                    "isBuyable": true,
+                    "name": "Black",
+                    "prices": {
+                        "rawPrice": "6499.00",
+                        "price": "₦ 6,499",
+                        "priceEuro": "7.52",
+                        "taxEuro": "0.52",
+                        "oldPrice": "₦ 11,900",
+                        "oldPriceEuro": "13.77",
+                        "discount": "45%"
+                    }
+                }
+            ],
+            "selectedVariation": "GE779AT3OGKJ8NAFAMZ-313933390",
+            "variationSelection": true
+        }
+    ],
+    "timeLabels": {
+        "w": "w",
+        "d": "d",
+        "h": "h",
+        "m": "m",
+        "s": "s"
+    },
+    "sponsoredUrl": "/fragment/sp/products/catalog-page-types/category/?fq=%7B%22category%22%3A22623%7D&page=1&numberItems=12&viewType=grid",
+    "googleAds": {
+        "targeting": {
+            "cat_1": [
+                "Health  Beauty"
+            ],
+            "category": [
+                "Health  Beauty"
+            ],
+            "searchTerm": [
+                "none"
+            ],
+            "hasRestrictedContent": [
+                "1"
+            ]
+        },
+        "catalog_top": {
+            "adUnitPath": "21834584457/NG/desktop_catalog_top",
+            "size": [
+                [
+                    728,
+                    90
+                ],
+                [
+                    970,
+                    90
+                ],
+                [
+                    970,
+                    250
+                ],
+                "fluid"
+            ]
+        },
+        "catalog_bottom": {
+            "adUnitPath": "21834584457/NG/desktop_catalog_bottom",
+            "size": [
+                [
+                    728,
+                    90
+                ],
+                [
+                    970,
+                    90
+                ],
+                [
+                    970,
+                    250
+                ],
+                "fluid"
+            ]
+        }
+    }
+}
